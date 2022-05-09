@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="examples.ExamplesTest" time="2.129" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\itmoura\Documents\INATEL\test\aula_inatel\target\test-classes;C:\Users\itmoura\Documents\INATEL\test\aula_inatel\target\classes;C:\Users\itmoura\.m2\repository\com\intuit\karate\karate-junit5\1.1.0\karate-junit5-1.1.0.jar;C:\Users\itmoura\.m2\repository\com\intuit\karate\karate-core\1.1.0\karate-core-1.1.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\js\js-scriptengine\21.2.0\js-scriptengine-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\sdk\graal-sdk\21.2.0\graal-sdk-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\js\js\21.2.0\js-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\regex\regex\21.2.0\regex-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\truffle\truffle-api\21.2.0\truffle-api-21.2.0.jar;C:\Users\itmoura\.m2\repository\com\ibm\icu\icu4j\69.1\icu4j-69.1.jar;C:\Users\itmoura\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\itmoura\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\itmoura\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\itmoura\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.25\jcl-over-slf4j-1.7.25.jar;C:\Users\itmoura\.m2\repository\com\jayway\jsonpath\json-path\2.6.0\json-path-2.6.0.jar;C:\Users\itmoura\.m2\repository\net\minidev\json-smart\2.4.7\json-smart-2.4.7.jar;C:\Users\itmoura\.m2\repository\net\minidev\accessors-smart\2.4.7\accessors-smart-2.4.7.jar;C:\Users\itmoura\.m2\repository\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\itmoura\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;C:\Users\itmoura\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;C:\Users\itmoura\.m2\repository\org\yaml\snakeyaml\1.29\snakeyaml-1.29.jar;C:\Users\itmoura\.m2\repository\de\siegmar\fastcsv\2.0.0\fastcsv-2.0.0.jar;C:\Users\itmoura\.m2\repository\info\picocli\picocli\4.6.1\picocli-4.6.1.jar;C:\Users\itmoura\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.2\junit-jupiter-api-5.7.2.jar;C:\Users\itmoura\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\itmoura\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\itmoura\.m2\repository\org\junit\platform\junit-platform-commons\1.7.2\junit-platform-commons-1.7.2.jar;C:\Users\itmoura\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.2\junit-jupiter-engine-5.7.2.jar;C:\Users\itmoura\.m2\repository\org\junit\platform\junit-platform-engine\1.7.2\junit-platform-engine-1.7.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin"/>
+    <property name="sun.java.command" value="C:\Users\itmoura\AppData\Local\Temp\surefire1448972766081725896\surefirebooter2164980958663086930.jar C:\Users\itmoura\AppData\Local\Temp\surefire1448972766081725896 2022-05-09T17-29-35_043-jvmRun1 surefire3084108960794345027tmp surefire_09962746144111120546tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\itmoura\Documents\INATEL\test\aula_inatel\target\test-classes;C:\Users\itmoura\Documents\INATEL\test\aula_inatel\target\classes;C:\Users\itmoura\.m2\repository\com\intuit\karate\karate-junit5\1.1.0\karate-junit5-1.1.0.jar;C:\Users\itmoura\.m2\repository\com\intuit\karate\karate-core\1.1.0\karate-core-1.1.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\js\js-scriptengine\21.2.0\js-scriptengine-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\sdk\graal-sdk\21.2.0\graal-sdk-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\js\js\21.2.0\js-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\regex\regex\21.2.0\regex-21.2.0.jar;C:\Users\itmoura\.m2\repository\org\graalvm\truffle\truffle-api\21.2.0\truffle-api-21.2.0.jar;C:\Users\itmoura\.m2\repository\com\ibm\icu\icu4j\69.1\icu4j-69.1.jar;C:\Users\itmoura\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\itmoura\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\itmoura\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\itmoura\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.25\jcl-over-slf4j-1.7.25.jar;C:\Users\itmoura\.m2\repository\com\jayway\jsonpath\json-path\2.6.0\json-path-2.6.0.jar;C:\Users\itmoura\.m2\repository\net\minidev\json-smart\2.4.7\json-smart-2.4.7.jar;C:\Users\itmoura\.m2\repository\net\minidev\accessors-smart\2.4.7\accessors-smart-2.4.7.jar;C:\Users\itmoura\.m2\repository\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\itmoura\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;C:\Users\itmoura\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;C:\Users\itmoura\.m2\repository\org\yaml\snakeyaml\1.29\snakeyaml-1.29.jar;C:\Users\itmoura\.m2\repository\de\siegmar\fastcsv\2.0.0\fastcsv-2.0.0.jar;C:\Users\itmoura\.m2\repository\info\picocli\picocli\4.6.1\picocli-4.6.1.jar;C:\Users\itmoura\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.2\junit-jupiter-api-5.7.2.jar;C:\Users\itmoura\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\itmoura\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\itmoura\.m2\repository\org\junit\platform\junit-platform-commons\1.7.2\junit-platform-commons-1.7.2.jar;C:\Users\itmoura\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.2\junit-jupiter-engine-5.7.2.jar;C:\Users\itmoura\.m2\repository\org\junit\platform\junit-platform-engine\1.7.2\junit-platform-engine-1.7.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\itmoura"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.13"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\itmoura\Documents\INATEL\test\aula_inatel"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\itmoura\AppData\Local\Temp\surefire1448972766081725896\surefirebooter2164980958663086930.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.13+10-LTS-370"/>
+    <property name="user.name" value="itmoura"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\itmoura\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\itmoura\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="user.dir" value="C:\Users\itmoura\Documents\INATEL\test\aula_inatel"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\itmoura\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\itmoura\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-11.0.13\bin;C:\Maven\apache-maven-3.8.4\bin;C:\Program Files\Git\cmd;C:\Program Files\Google\Chrome\Application\chrome.exe;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\itmoura\AppData\Local\Microsoft\WindowsApps;C:\Users\itmoura\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2021.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.3\bin;C:\Users\itmoura\AppData\Roaming\npm;C:\Program Files\heroku\bin;D:\ocr\Tesseract-OCR;C:\Users\itmoura\AppData\Local\Microsoft\WindowsApps;C:\Users\itmoura\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2021.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.3\bin;C:\Users\itmoura\AppData\Roaming\npm;C:\Program Files\heroku\bin;D:\ocr\Tesseract-OCR;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.13+10-LTS-370"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testParallel" classname="examples.ExamplesTest" time="2.127"/>
+</testsuite>
